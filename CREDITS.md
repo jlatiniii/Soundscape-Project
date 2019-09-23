@@ -1,6 +1,6 @@
 CREDITS
 
-- [car driving, car accident, and sirens](https://freesound.org/people/Omar%20Alvarado/sounds/96345/) by [Omar Alvarado] (https://freesound.org/people/Omar%20Alvarado/) from [freesound] (https://freesound.org/). [CC-BY-3.0] (https://creativecommons.org/licenses/by/3.0/). 
+- [car driving, car accident, and sirens](https://freesound.org/people/Omar%20Alvarado/sounds/96345/) by [Omar Alvarado](https://freesound.org/people/Omar%20Alvarado/) from [freesound](https://freesound.org/). [CC-BY-3.0] (https://creativecommons.org/licenses/by/3.0/). 
 - [We All Try - Frank Ocean](https://soundcloud.com/everything-frank-ocean/we-all-try) from [soundcloud](soundcloud.com). Fair use
 - [breathing ventilator](http://soundbible.com/49-Breathing-Vent.html), (no author), from [soundbible](soundbible.com). [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/). 
 - [heart monitor](https://soundbible.com/1730-ECG.html) by [Mike Koenig](https://soundbible.com/1730-ECG.html) from [soundbible](soundbible.com). [CC-BY-3.0](https://soundbible.com/1730-ECG.html). 
